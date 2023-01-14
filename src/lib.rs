@@ -14,7 +14,7 @@
 /// assert_eq!(8, answer);
 /// ```
 pub fn add_three(x: i32) -> i32 {
-    x + 3
+    x + 2 + 1
 }
 
 
